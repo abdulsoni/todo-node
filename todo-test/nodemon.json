@@ -1,6 +1,0 @@
-{
-    "env": {
-        "MONGO_ATLAS_DB_user": "idevia",
-        "MONGO_ATLAS_DB_password": "noBound6"
-    }
-}
